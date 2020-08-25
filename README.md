@@ -1,2 +1,1 @@
-Do not contribute directly to sofa defrost. 
-The master branch is hosted by https://github.com/sofa-framework/SofaPython3/
+The master branch has been migrated to https://github.com/sofa-framework/SofaPython3/
