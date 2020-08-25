@@ -1,1 +1,2 @@
-Do not contribute directly to sofa defrost. All contribution should be done to sofa-framework.  
+Do not contribute directly to sofa defrost. 
+The master branch is hosted by https://github.com/sofa-framework/SofaPython3/
